@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm solo. I live in Japan, and am fluent in Japanese, but my native language is English. I've touched a variety of technologies, but I'm mainly interested in working in TypeScript and C#, with a goal of someday developing some kind of game in Godot Engine. I work professionally as a front-end developer with React, but for my personal web projects I primarily use Vue.
+
 <!--
 **solo-nko/solo-nko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
